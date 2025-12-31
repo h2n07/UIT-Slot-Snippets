@@ -13,19 +13,7 @@
 
 #### 🚀 Hướng dẫn cài đặt & sử dụng
 
-**Cách 1: Sử dụng Snippets (Khuyên dùng - Lưu code vĩnh viễn)**  
-Đây là cách tốt nhất để lưu script lại trong trình duyệt, lần sau vào chỉ cần bấm chạy.
-
-1. Đăng nhập vào trang https://dkhp.uit.edu.vn.
-2. Nhấn **F12** (hoặc Fn + F12, hoặc chuột phải → Inspect).
-3. Chọn tab **Sources** (Nguồn).
-4. Ở cột bên trái, tìm tab **Snippets** (đôi khi nó nằm trong dấu >>).
-5. Bấm **+ New snippet**, đặt tên là **UIT_Sniper**.
-6. Copy toàn bộ code trong file `uit_console_sniper.js` và dán vào vùng soạn thảo bên phải.
-7. Nhấn **Ctrl + S** (hoặc Cmd + S trên Mac) để lưu lại.
-8. Chạy tool: Chuột phải vào tên snippet **UIT_Sniper** → chọn **Run**.
-
-**Cách 2: Chạy nhanh (Mì ăn liền)**
+**Chạy nhanh (Mì ăn liền)**
 
 1. Copy toàn bộ code trong file `uit_console_sniper.js`.
 2. Tại trang ĐKHP, nhấn **F12** → chọn tab **Console**.
@@ -40,3 +28,4 @@
 Nếu bạn thấy lỗi hoặc muốn thêm tính năng, hãy tạo Pull Request hoặc Issues trên Repository này.
 
 **Disclaimer**: Tool được viết với mục đích học tập và hỗ trợ cá nhân. Tác giả không chịu trách nhiệm về việc sử dụng tool sai mục đích.
+
