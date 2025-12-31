@@ -1,7 +1,5 @@
 // =========================================================================
 // UIT SLOT SNIPER - CONSOLE VERSION (AUTO TOKEN + SAVE CONFIG)
-// Author: Your Name
-// Repo: https://github.com/your-username/uit-slot-sniper
 // =========================================================================
 
 (async function() {
@@ -268,5 +266,6 @@
 
     // Start
     start();
+
 
 })();
