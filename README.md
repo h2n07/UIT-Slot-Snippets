@@ -3,6 +3,8 @@
 **Tool hỗ trợ sinh viên UIT tự động kiểm tra slot (sĩ số) các lớp học phần ngay trên trình duyệt mà không cần cài đặt phần mềm phức tạp.**
 
 #### 🔥 Tính năng nổi bật
+https://github.com/user-attachments/assets/54ff0ac1-7bc4-4d95-88f3-2f397267c67b
+
 - **Chạy trực tiếp trên Console (F12)**: Không cần cài Python, Node.js hay Extension.
 - **Bypass CORS**: Chạy cùng domain dkhp.uit.edu.vn nên không bị chặn request.
 - **Auto Token**: Tự động tìm token đăng nhập (nếu có) hoặc lưu token thủ công vào LocalStorage để không phải nhập lại mỗi lần F5.
@@ -28,4 +30,5 @@
 Nếu bạn thấy lỗi hoặc muốn thêm tính năng, hãy tạo Pull Request hoặc Issues trên Repository này.
 
 **Disclaimer**: Tool được viết với mục đích học tập và hỗ trợ cá nhân. Tác giả không chịu trách nhiệm về việc sử dụng tool sai mục đích.
+
 
